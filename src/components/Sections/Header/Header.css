@@ -1,0 +1,13 @@
+.header__center {
+    height: 95vh;
+}
+
+.header__top h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 84px;
+    text-align: center;
+    font-weight: Bold;
+    line-height: 101px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
